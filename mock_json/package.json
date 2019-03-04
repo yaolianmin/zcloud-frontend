@@ -1,0 +1,17 @@
+{
+  "name": "ZOAM_rest_api_demo",
+  "version": "1.0.0",
+  "description": "json-server restAPI",
+  "scripts": {
+    "mockjson": "json-server db.json --port 9999 --id mac_addr",
+    "easy": "json-server ./easyserver/db.js --port 9999 --routes ./easyserver/routes/route.json",
+    "restful": "nodemon ./restapiserver/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.12.1",
+    "mockjs": "^1.0.1-beta3",
+    "nodemon": "^1.12.5"
+  },
+  "author": "shenwj",
+  "license": "MIT"
+}

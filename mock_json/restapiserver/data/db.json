@@ -1,0 +1,1934 @@
+{
+  "devlists": [
+    {
+      "id": 3,
+      "device_status": 0,
+      "mac_addr": "96:88:87:84:74:5B",
+      "model_type": "AP",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_hexip",
+      "service_end": "1997-06-30 16:28:46",
+      "dev_info1": "局边近温可头周越",
+      "dev_info2": "生听件气设身很列",
+      "group_name": "group_lklti",
+      "user_name": "Amy",
+      "management": "John"
+    },
+    {
+      "id": 4,
+      "device_status": 1,
+      "mac_addr": "94:7B:3D:89:0F:39",
+      "model_type": "AP",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_akniy",
+      "service_end": "2003-08-18 06:11:26",
+      "dev_info1": "角社线级他要容过",
+      "dev_info2": "结适同自么规非因",
+      "group_name": "group_qsmme",
+      "user_name": "Susan",
+      "management": "Gary"
+    },
+    {
+      "id": 6,
+      "device_status": 1,
+      "mac_addr": "E6:DD:D4:67:31:9B",
+      "model_type": "AC",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_lbran",
+      "service_end": "2016-11-10 09:54:28",
+      "dev_info1": "眼及证车里就以眼",
+      "dev_info2": "指史于领达九今层",
+      "group_name": "group_seqns",
+      "user_name": "Mark",
+      "management": "Mary"
+    },
+    {
+      "id": 7,
+      "device_status": 2,
+      "mac_addr": "E2:46:81:FD:3B:31",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_gdodd",
+      "service_end": "2004-12-02 18:12:46",
+      "dev_info1": "山地直发条志支人",
+      "dev_info2": "算科具前带达众则",
+      "group_name": "group_ybkbl",
+      "user_name": "John",
+      "management": "William"
+    },
+    {
+      "id": 8,
+      "device_status": 0,
+      "mac_addr": "22:2C:2E:22:36:30",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_ojhwy",
+      "service_end": "1989-03-26 23:25:50",
+      "dev_info1": "思组每断听民便才",
+      "dev_info2": "确太省形对文新火",
+      "group_name": "group_zyiya",
+      "user_name": "Sharon",
+      "management": "Nancy"
+    },
+    {
+      "id": 9,
+      "device_status": 0,
+      "mac_addr": "22:77:11:3D:63:76",
+      "model_type": "AC",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_xfpuc",
+      "service_end": "1995-03-16 23:42:53",
+      "dev_info1": "图号复织人省影还",
+      "dev_info2": "小分老至值性往别",
+      "group_name": "group_oploj",
+      "user_name": "Daniel",
+      "management": "Laura"
+    },
+    {
+      "id": 10,
+      "device_status": 0,
+      "mac_addr": "3A:6A:45:53:4A:5D",
+      "model_type": "AP",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_niffd",
+      "service_end": "1974-09-18 00:17:32",
+      "dev_info1": "则平任此商形细中",
+      "dev_info2": "书么海又酸养与先",
+      "group_name": "group_ieqjp",
+      "user_name": "Larry",
+      "management": "Patricia"
+    },
+    {
+      "id": 11,
+      "device_status": 1,
+      "mac_addr": "1E:93:8F:2A:F3:BE",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_bhfik",
+      "service_end": "2001-11-04 09:37:16",
+      "dev_info1": "因走四并非还间义",
+      "dev_info2": "你养点上越则发置",
+      "group_name": "group_duirn",
+      "user_name": "William",
+      "management": "Jennifer"
+    },
+    {
+      "id": 12,
+      "device_status": 1,
+      "mac_addr": "D0:77:9D:57:4A:DA",
+      "model_type": "LTE-Fi",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_hnwsz",
+      "service_end": "2015-09-26 18:55:10",
+      "dev_info1": "个很问交等建据王",
+      "dev_info2": "别名种年生究称王",
+      "group_name": "group_yfjqf",
+      "user_name": "Michelle",
+      "management": "Steven"
+    },
+    {
+      "id": 13,
+      "device_status": 1,
+      "mac_addr": "6E:CE:85:A4:C7:7B",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_pfyiv",
+      "service_end": "1986-01-16 15:35:43",
+      "dev_info1": "存东几政得马人利",
+      "dev_info2": "这象干战研往布教",
+      "group_name": "group_pxfvt",
+      "user_name": "Ruth",
+      "management": "Carol"
+    },
+    {
+      "id": 14,
+      "device_status": 1,
+      "mac_addr": "84:D1:62:FB:2A:AA",
+      "model_type": "AP",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_hufrl",
+      "service_end": "2006-10-21 18:23:55",
+      "dev_info1": "动极公率术看中石",
+      "dev_info2": "满按治理真易热她",
+      "group_name": "group_gltwr",
+      "user_name": "Jeffrey",
+      "management": "Matthew"
+    },
+    {
+      "id": 15,
+      "device_status": 2,
+      "mac_addr": "84:A6:D0:82:43:83",
+      "model_type": "LTE-Fi",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_yeote",
+      "service_end": "2012-02-29 22:32:27",
+      "dev_info1": "专也就意状再于酸",
+      "dev_info2": "求断现决写知按军",
+      "group_name": "group_jcdgk",
+      "user_name": "David",
+      "management": "Brian"
+    },
+    {
+      "id": 16,
+      "device_status": 0,
+      "mac_addr": "10:45:82:64:2B:AE",
+      "model_type": "AC",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_nohaj",
+      "service_end": "2007-06-21 07:35:19",
+      "dev_info1": "内半你区期适切教",
+      "dev_info2": "可道元民志没引间",
+      "group_name": "group_uzhaq",
+      "user_name": "Jeffrey",
+      "management": "Timothy"
+    },
+    {
+      "id": 17,
+      "device_status": 2,
+      "mac_addr": "A2:05:A8:AA:8E:D1",
+      "model_type": "AC",
+      "model_name": "XN-1033",
+      "last_templet_name": "cfg_rbjqa",
+      "service_end": "1978-05-14 20:25:04",
+      "dev_info1": "万党大离主易下周",
+      "dev_info2": "做收问即时温真需",
+      "group_name": "group_rruid",
+      "user_name": "Anthony",
+      "management": "Jason"
+    },
+    {
+      "id": 18,
+      "device_status": 0,
+      "mac_addr": "32:81:05:8D:31:18",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_xmtde",
+      "service_end": "1973-05-16 13:29:18",
+      "dev_info1": "光社过小它除被条",
+      "dev_info2": "社才完何治此调规",
+      "group_name": "group_bvgba",
+      "user_name": "Nancy",
+      "management": "Eric"
+    },
+    {
+      "id": 19,
+      "device_status": 1,
+      "mac_addr": "BC:EE:EA:76:B5:9E",
+      "model_type": "AC",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_mihjs",
+      "service_end": "2013-05-24 16:41:51",
+      "dev_info1": "马交克更包明军领",
+      "dev_info2": "率者此离省第容海",
+      "group_name": "group_dvmsl",
+      "user_name": "Michael",
+      "management": "Laura"
+    },
+    {
+      "id": 20,
+      "device_status": 2,
+      "mac_addr": "1A:E4:00:3F:89:8C",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_udqnb",
+      "service_end": "1988-01-12 20:31:37",
+      "dev_info1": "七规构定回加特反",
+      "dev_info2": "准眼心程南阶要了",
+      "group_name": "group_zxcpe",
+      "user_name": "Timothy",
+      "management": "Mary"
+    },
+    {
+      "id": 21,
+      "device_status": 1,
+      "mac_addr": "A2:DD:A3:57:E6:E6",
+      "model_type": "LTE-Fi",
+      "model_name": "XN-1033",
+      "last_templet_name": "cfg_rqdnt",
+      "service_end": "2013-06-23 13:46:28",
+      "dev_info1": "京意国图民还很会",
+      "dev_info2": "克即步新打业大当",
+      "group_name": "group_jkojn",
+      "user_name": "Maria",
+      "management": "Amy"
+    },
+    {
+      "id": 22,
+      "device_status": 0,
+      "mac_addr": "B4:82:82:B2:A6:79",
+      "model_type": "AP",
+      "model_name": "XN-1033",
+      "last_templet_name": "cfg_wbruq",
+      "service_end": "2005-08-16 00:58:30",
+      "dev_info1": "数群物家算日例子",
+      "dev_info2": "需派构程十方交县",
+      "group_name": "group_wmnvi",
+      "user_name": "Edward",
+      "management": "Helen"
+    },
+    {
+      "id": 23,
+      "device_status": 2,
+      "mac_addr": "70:05:52:EA:AF:CD",
+      "model_type": "AP",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_nubir",
+      "service_end": "2014-02-08 01:00:00",
+      "dev_info1": "级再内的至际高着",
+      "dev_info2": "边象理红型你压南",
+      "group_name": "group_ycoyo",
+      "user_name": "Paul",
+      "management": "Sandra"
+    },
+    {
+      "id": 24,
+      "device_status": 2,
+      "mac_addr": "A0:5B:C9:32:8B:51",
+      "model_type": "AC",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_lvgdu",
+      "service_end": "1984-01-07 06:27:59",
+      "dev_info1": "效部采许路照月条",
+      "dev_info2": "面越期明青段般何",
+      "group_name": "group_vwson",
+      "user_name": "Helen",
+      "management": "Kevin"
+    },
+    {
+      "id": 25,
+      "device_status": 1,
+      "mac_addr": "1A:7A:96:91:6B:52",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_ozryf",
+      "service_end": "2005-03-14 00:08:29",
+      "dev_info1": "安无标写团例然步",
+      "dev_info2": "团原七每厂称适气",
+      "group_name": "group_zttqj",
+      "user_name": "David",
+      "management": "Sarah"
+    },
+    {
+      "id": 26,
+      "device_status": 0,
+      "mac_addr": "06:EA:8B:C9:4B:44",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_ofxcp",
+      "service_end": "1996-05-11 18:16:57",
+      "dev_info1": "精或国路族拉格接",
+      "dev_info2": "儿组历史转长料适",
+      "group_name": "group_smfcf",
+      "user_name": "Richard",
+      "management": "Donna"
+    },
+    {
+      "id": 27,
+      "device_status": 1,
+      "mac_addr": "10:81:C0:9F:3C:1C",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_ocuwo",
+      "service_end": "2017-08-22 07:53:28",
+      "dev_info1": "要形京众门引报报",
+      "dev_info2": "次精型历实机位观",
+      "group_name": "group_ygims",
+      "user_name": "Matthew",
+      "management": "Steven"
+    },
+    {
+      "id": 28,
+      "device_status": 1,
+      "mac_addr": "C4:0E:30:27:8B:DF",
+      "model_type": "AC",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_gqxcn",
+      "service_end": "1988-02-19 02:12:51",
+      "dev_info1": "色今斗高联住第立",
+      "dev_info2": "斗样样广真土至将",
+      "group_name": "group_kucax",
+      "user_name": "Melissa",
+      "management": "Donna"
+    },
+    {
+      "id": 29,
+      "device_status": 2,
+      "mac_addr": "A6:8C:D5:90:0F:82",
+      "model_type": "AC",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_bxfbr",
+      "service_end": "1974-04-11 14:53:20",
+      "dev_info1": "美且非按应色机角",
+      "dev_info2": "业对等术深酸参器",
+      "group_name": "group_jeysw",
+      "user_name": "Amy",
+      "management": "Kevin"
+    },
+    {
+      "id": 30,
+      "device_status": 0,
+      "mac_addr": "6A:34:C0:42:5A:D7",
+      "model_type": "LTE-Fi",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_csysd",
+      "service_end": "1972-09-09 17:15:26",
+      "dev_info1": "设京问定个分广器",
+      "dev_info2": "便对头当美市量压",
+      "group_name": "group_svumm",
+      "user_name": "Scott",
+      "management": "Jason"
+    },
+    {
+      "id": 31,
+      "device_status": 1,
+      "mac_addr": "4A:3A:66:46:93:81",
+      "model_type": "AC",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_riqsm",
+      "service_end": "1979-01-18 08:16:11",
+      "dev_info1": "金示产族几同听统",
+      "dev_info2": "持效主身需从目界",
+      "group_name": "group_qfybu",
+      "user_name": "Susan",
+      "management": "Carol"
+    },
+    {
+      "id": 32,
+      "device_status": 2,
+      "mac_addr": "AE:03:7C:20:95:85",
+      "model_type": "AP",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_qxsiq",
+      "service_end": "2017-08-14 09:37:31",
+      "dev_info1": "造术片东研近省林",
+      "dev_info2": "备般其线正程全史",
+      "group_name": "group_bfsnm",
+      "user_name": "Kenneth",
+      "management": "Robert"
+    },
+    {
+      "id": 33,
+      "device_status": 2,
+      "mac_addr": "32:FD:C9:35:86:BC",
+      "model_type": "AP",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_hkpvi",
+      "service_end": "1980-09-04 20:59:15",
+      "dev_info1": "广报任白进到生公",
+      "dev_info2": "然些联构确成他响",
+      "group_name": "group_ivujz",
+      "user_name": "Christopher",
+      "management": "Christopher"
+    },
+    {
+      "id": 34,
+      "device_status": 0,
+      "mac_addr": "16:78:A2:62:41:F3",
+      "model_type": "LTE-Fi",
+      "model_name": "ZCN-1523-2-8",
+      "last_templet_name": "cfg_uohmd",
+      "service_end": "2017-06-12 16:38:26",
+      "dev_info1": "程况展一且化因今",
+      "dev_info2": "说作称连米压但调",
+      "group_name": "group_snphe",
+      "user_name": "John",
+      "management": "Jason"
+    },
+    {
+      "id": 35,
+      "device_status": 0,
+      "mac_addr": "12:D2:BC:D3:5A:E0",
+      "model_type": "AC",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_sttsq",
+      "service_end": "1977-11-07 04:00:30",
+      "dev_info1": "由入四清我算动型",
+      "dev_info2": "容开说区参对见论",
+      "group_name": "group_gwhch",
+      "user_name": "Brenda",
+      "management": "Jason"
+    },
+    {
+      "id": 36,
+      "device_status": 2,
+      "mac_addr": "6C:63:05:B6:DC:60",
+      "model_type": "AC",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_sitzw",
+      "service_end": "1983-07-24 07:49:06",
+      "dev_info1": "务做清律往现风技",
+      "dev_info2": "族研反队其路几知",
+      "group_name": "group_tqcsk",
+      "user_name": "Dorothy",
+      "management": "Charles"
+    },
+    {
+      "id": 37,
+      "device_status": 1,
+      "mac_addr": "12:B3:AA:10:06:04",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_wtcaz",
+      "service_end": "1987-11-17 15:00:27",
+      "dev_info1": "想适农这度员识比",
+      "dev_info2": "级正金间太研家商",
+      "group_name": "group_ghrfm",
+      "user_name": "Matthew",
+      "management": "Nancy"
+    },
+    {
+      "id": 38,
+      "device_status": 2,
+      "mac_addr": "96:FA:15:9B:88:2F",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_yxbuo",
+      "service_end": "1983-07-02 16:42:02",
+      "dev_info1": "料严思道取处老外",
+      "dev_info2": "完边你角持西候水",
+      "group_name": "group_xpbjh",
+      "user_name": "Larry",
+      "management": "Cynthia"
+    },
+    {
+      "id": 39,
+      "device_status": 1,
+      "mac_addr": "46:C7:A9:03:6A:BE",
+      "model_type": "AP",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_frmzb",
+      "service_end": "1980-01-28 12:15:08",
+      "dev_info1": "布细风里要例际由",
+      "dev_info2": "经加也往便青阶半",
+      "group_name": "group_ltwng",
+      "user_name": "Gary",
+      "management": "Michelle"
+    },
+    {
+      "id": 40,
+      "device_status": 0,
+      "mac_addr": "5C:23:88:3C:9A:2A",
+      "model_type": "AC",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_xlgiu",
+      "service_end": "1973-04-03 19:13:19",
+      "dev_info1": "石始式常般候率不",
+      "dev_info2": "按在万代明活加始",
+      "group_name": "group_ycpig",
+      "user_name": "Angela",
+      "management": "Steven"
+    },
+    {
+      "id": 41,
+      "device_status": 0,
+      "mac_addr": "42:0C:A7:63:1A:85",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_fswuk",
+      "service_end": "2012-06-17 15:25:09",
+      "dev_info1": "情示林质与统须调",
+      "dev_info2": "带不号发交海上五",
+      "group_name": "group_qxbcv",
+      "user_name": "Cynthia",
+      "management": "Ronald"
+    },
+    {
+      "id": 42,
+      "device_status": 0,
+      "mac_addr": "1C:74:F9:02:56:D6",
+      "model_type": "AC",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_yeqho",
+      "service_end": "1988-04-10 01:47:34",
+      "dev_info1": "正许照位中指置技",
+      "dev_info2": "更格场家派整标因",
+      "group_name": "group_tshzw",
+      "user_name": "Patricia",
+      "management": "Maria"
+    },
+    {
+      "id": 43,
+      "device_status": 2,
+      "mac_addr": "D6:19:1D:A0:84:92",
+      "model_type": "AP",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_ewvjx",
+      "service_end": "2015-07-30 04:14:37",
+      "dev_info1": "然是产果须才龙交",
+      "dev_info2": "了局用量革断世路",
+      "group_name": "group_sxqru",
+      "user_name": "Anthony",
+      "management": "Susan"
+    },
+    {
+      "id": 44,
+      "device_status": 2,
+      "mac_addr": "86:A1:E5:7F:92:05",
+      "model_type": "LTE-Fi",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_bbdrb",
+      "service_end": "1976-05-21 21:19:46",
+      "dev_info1": "林龙作说验务天门",
+      "dev_info2": "音作周元把分除图",
+      "group_name": "group_vdrfz",
+      "user_name": "Dorothy",
+      "management": "Brian"
+    },
+    {
+      "id": 45,
+      "device_status": 0,
+      "mac_addr": "34:46:2D:0E:2C:76",
+      "model_type": "LTE-Fi",
+      "model_name": "ZAC-1023-2-9",
+      "last_templet_name": "cfg_xysvx",
+      "service_end": "2004-06-16 12:55:44",
+      "dev_info1": "族层党报七住手立",
+      "dev_info2": "号持直越完县此那",
+      "group_name": "group_pihww",
+      "user_name": "Eric",
+      "management": "Brian"
+    },
+    {
+      "id": 46,
+      "device_status": 1,
+      "mac_addr": "34:A8:A0:C1:7A:51",
+      "model_type": "AP",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_qcegs",
+      "service_end": "2001-11-15 12:40:18",
+      "dev_info1": "布同不变党根验四",
+      "dev_info2": "机去众或难好形越",
+      "group_name": "group_btvno",
+      "user_name": "Paul",
+      "management": "Daniel"
+    },
+    {
+      "id": 47,
+      "device_status": 0,
+      "mac_addr": "D8:54:42:93:56:76",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_jlmhx",
+      "service_end": "2016-08-26 08:36:04",
+      "dev_info1": "社政时则以与局率",
+      "dev_info2": "争然美头金里自确",
+      "group_name": "group_cjhgi",
+      "user_name": "Nancy",
+      "management": "Robert"
+    },
+    {
+      "id": 48,
+      "device_status": 0,
+      "mac_addr": "96:68:EE:DA:D5:DE",
+      "model_type": "AP",
+      "model_name": "AC-1030",
+      "last_templet_name": "cfg_ekxpj",
+      "service_end": "1970-11-02 07:37:30",
+      "dev_info1": "直之完新场类史万",
+      "dev_info2": "被作果千们世代须",
+      "group_name": "group_cynan",
+      "user_name": "Brian",
+      "management": "Richard"
+    },
+    {
+      "id": 49,
+      "device_status": 1,
+      "mac_addr": "64:36:FF:55:17:3C",
+      "model_type": "LTE-Fi",
+      "model_name": "AN-1022",
+      "last_templet_name": "cfg_ysbco",
+      "service_end": "1988-04-01 09:25:57",
+      "dev_info1": "工热道见前大斯县",
+      "dev_info2": "在化何除越本龙此",
+      "group_name": "group_gxpop",
+      "user_name": "Steven",
+      "management": "Elizabeth"
+    },
+    {
+      "id": 50,
+      "device_status": 2,
+      "mac_addr": "5C:A4:31:4B:A9:05",
+      "model_type": "AC",
+      "model_name": "AC-1027L",
+      "last_templet_name": "cfg_bymoo",
+      "service_end": "1990-11-01 21:49:36",
+      "dev_info1": "实元国完代持心太",
+      "dev_info2": "报增此此度公回海",
+      "group_name": "group_jyuem",
+      "user_name": "Laura",
+      "management": "Gary"
+    }
+  ],
+  "devlogs": [
+    {
+      "id": 1,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "体式速种低受示这",
+      "log_level": "1",
+      "time": "1980-01-03 07:04:24",
+      "user_name": "username4",
+      "dev_group": "group5",
+      "mac_addr": "12:37:4F:8D:5A:0F"
+    },
+    {
+      "id": 2,
+      "model_name": "AC-1030",
+      "log_desc": "共存越知便治见族",
+      "log_level": "2",
+      "time": "1973-12-02 15:44:54",
+      "user_name": "username3",
+      "dev_group": "group5",
+      "mac_addr": "82:9D:F4:CC:CB:1F"
+    },
+    {
+      "id": 3,
+      "model_name": "XN-1033",
+      "log_desc": "便该市数至常线石",
+      "log_level": "1",
+      "time": "1980-02-27 18:51:37",
+      "user_name": "username5",
+      "dev_group": "group5",
+      "mac_addr": "D2:46:72:E1:70:8F"
+    },
+    {
+      "id": 4,
+      "model_name": "XN-1033",
+      "log_desc": "速今东交按争真四",
+      "log_level": "0",
+      "time": "2003-02-02 12:18:39",
+      "user_name": "username3",
+      "dev_group": "group2",
+      "mac_addr": "B4:1C:66:1E:8D:52"
+    },
+    {
+      "id": 5,
+      "model_name": "AN-1022",
+      "log_desc": "解它院山料三识议",
+      "log_level": "1",
+      "time": "1993-06-27 03:34:24",
+      "user_name": "username4",
+      "dev_group": "group3",
+      "mac_addr": "DC:3D:19:B3:62:74"
+    },
+    {
+      "id": 6,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "即深把式是住中部",
+      "log_level": "1",
+      "time": "1979-06-22 22:56:46",
+      "user_name": "username3",
+      "dev_group": "group4",
+      "mac_addr": "EA:99:34:89:69:E5"
+    },
+    {
+      "id": 7,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "江电什存江队前造",
+      "log_level": "2",
+      "time": "1975-09-11 08:35:11",
+      "user_name": "username4",
+      "dev_group": "group1",
+      "mac_addr": "7C:BC:E9:AC:74:C4"
+    },
+    {
+      "id": 8,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "说办而地给定走然",
+      "log_level": "1",
+      "time": "1985-03-11 18:46:44",
+      "user_name": "username2",
+      "dev_group": "group2",
+      "mac_addr": "4E:B4:E5:3A:40:56"
+    },
+    {
+      "id": 9,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "两中向山铁革历其",
+      "log_level": "0",
+      "time": "1994-09-07 14:40:58",
+      "user_name": "username3",
+      "dev_group": "group2",
+      "mac_addr": "E6:6B:74:EA:0C:E4"
+    },
+    {
+      "id": 10,
+      "model_name": "AC-1027L",
+      "log_desc": "验前照且好证毛日",
+      "log_level": "2",
+      "time": "2008-12-21 04:26:31",
+      "user_name": "username1",
+      "dev_group": "group3",
+      "mac_addr": "68:8C:19:36:00:35"
+    },
+    {
+      "id": 11,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "听易气指事指民问",
+      "log_level": "1",
+      "time": "2003-01-28 07:24:32",
+      "user_name": "username2",
+      "dev_group": "group2",
+      "mac_addr": "42:37:A9:85:0D:83"
+    },
+    {
+      "id": 12,
+      "model_name": "AC-1030",
+      "log_desc": "等者同状现年律及",
+      "log_level": "0",
+      "time": "1990-07-11 19:03:30",
+      "user_name": "username3",
+      "dev_group": "group3",
+      "mac_addr": "A6:3F:C5:9B:65:BD"
+    },
+    {
+      "id": 13,
+      "model_name": "XN-1033",
+      "log_desc": "及决金京格指子在",
+      "log_level": "2",
+      "time": "2016-11-06 22:36:09",
+      "user_name": "username4",
+      "dev_group": "group2",
+      "mac_addr": "AA:CE:95:87:C7:D1"
+    },
+    {
+      "id": 14,
+      "model_name": "XN-1033",
+      "log_desc": "程才何易究半节农",
+      "log_level": "1",
+      "time": "2005-06-06 13:18:49",
+      "user_name": "username6",
+      "dev_group": "group5",
+      "mac_addr": "1A:BE:88:3F:29:D3"
+    },
+    {
+      "id": 15,
+      "model_name": "AC-1030",
+      "log_desc": "非东文油间这己非",
+      "log_level": "0",
+      "time": "1992-04-12 18:43:05",
+      "user_name": "username4",
+      "dev_group": "group1",
+      "mac_addr": "BA:88:56:81:D8:39"
+    },
+    {
+      "id": 16,
+      "model_name": "AC-1027L",
+      "log_desc": "目京原型现号出西",
+      "log_level": "2",
+      "time": "1997-11-20 07:37:55",
+      "user_name": "username1",
+      "dev_group": "group1",
+      "mac_addr": "34:C3:60:16:BD:EB"
+    },
+    {
+      "id": 17,
+      "model_name": "AC-1030",
+      "log_desc": "月细行斗非来类心",
+      "log_level": "0",
+      "time": "1987-07-15 04:50:38",
+      "user_name": "username6",
+      "dev_group": "group4",
+      "mac_addr": "DC:70:19:2C:B9:8B"
+    },
+    {
+      "id": 18,
+      "model_name": "XN-1033",
+      "log_desc": "验圆象阶目现在制",
+      "log_level": "0",
+      "time": "2007-06-11 04:08:45",
+      "user_name": "username3",
+      "dev_group": "group2",
+      "mac_addr": "3C:5C:83:E1:C6:87"
+    },
+    {
+      "id": 19,
+      "model_name": "AC-1027L",
+      "log_desc": "江表中流先更历起",
+      "log_level": "0",
+      "time": "1978-12-01 16:41:38",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "C2:61:AD:2E:7D:7A"
+    },
+    {
+      "id": 20,
+      "model_name": "AC-1030",
+      "log_desc": "好根拉国定因用速",
+      "log_level": "1",
+      "time": "2002-04-14 07:43:35",
+      "user_name": "username3",
+      "dev_group": "group1",
+      "mac_addr": "62:E3:B5:38:74:3C"
+    },
+    {
+      "id": 21,
+      "model_name": "AC-1027L",
+      "log_desc": "色候家酸空用较建",
+      "log_level": "1",
+      "time": "1997-12-18 04:15:08",
+      "user_name": "username2",
+      "dev_group": "group2",
+      "mac_addr": "78:D4:3A:42:83:89"
+    },
+    {
+      "id": 22,
+      "model_name": "AC-1030",
+      "log_desc": "须道经学织定际带",
+      "log_level": "1",
+      "time": "1985-08-24 08:05:23",
+      "user_name": "username3",
+      "dev_group": "group1",
+      "mac_addr": "56:9F:3D:64:24:9C"
+    },
+    {
+      "id": 23,
+      "model_name": "AN-1022",
+      "log_desc": "众布率方酸它切资",
+      "log_level": "1",
+      "time": "2005-09-10 12:57:47",
+      "user_name": "username6",
+      "dev_group": "group1",
+      "mac_addr": "1A:C4:03:13:FD:16"
+    },
+    {
+      "id": 24,
+      "model_name": "AC-1030",
+      "log_desc": "约中存现眼学作同",
+      "log_level": "1",
+      "time": "2001-10-19 00:20:00",
+      "user_name": "username5",
+      "dev_group": "group3",
+      "mac_addr": "12:5B:71:8A:FD:9A"
+    },
+    {
+      "id": 25,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "起更石转代处并华",
+      "log_level": "1",
+      "time": "2015-01-24 03:18:11",
+      "user_name": "username1",
+      "dev_group": "group6",
+      "mac_addr": "A6:1B:6C:5B:F5:4D"
+    },
+    {
+      "id": 26,
+      "model_name": "AC-1030",
+      "log_desc": "外革志性列全信离",
+      "log_level": "0",
+      "time": "1994-11-11 09:06:51",
+      "user_name": "username4",
+      "dev_group": "group1",
+      "mac_addr": "66:A9:02:48:BF:E1"
+    },
+    {
+      "id": 27,
+      "model_name": "AC-1027L",
+      "log_desc": "目程义前等石事半",
+      "log_level": "1",
+      "time": "1976-12-08 19:22:28",
+      "user_name": "username4",
+      "dev_group": "group3",
+      "mac_addr": "54:6D:53:EA:D1:4D"
+    },
+    {
+      "id": 28,
+      "model_name": "AN-1022",
+      "log_desc": "常头影料子各改王",
+      "log_level": "1",
+      "time": "1980-03-26 05:53:31",
+      "user_name": "username4",
+      "dev_group": "group3",
+      "mac_addr": "56:98:C6:B3:5D:B3"
+    },
+    {
+      "id": 29,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "被商热重教斯是称",
+      "log_level": "0",
+      "time": "1998-08-14 21:22:41",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "9C:6B:52:E3:E6:9B"
+    },
+    {
+      "id": 30,
+      "model_name": "AC-1030",
+      "log_desc": "受江资实关取美复",
+      "log_level": "0",
+      "time": "2008-07-10 08:01:32",
+      "user_name": "username4",
+      "dev_group": "group1",
+      "mac_addr": "1C:03:22:81:29:27"
+    },
+    {
+      "id": 31,
+      "model_name": "AC-1030",
+      "log_desc": "角取级速色正重然",
+      "log_level": "2",
+      "time": "1987-12-25 07:02:00",
+      "user_name": "username6",
+      "dev_group": "group5",
+      "mac_addr": "66:E7:4C:BA:41:95"
+    },
+    {
+      "id": 32,
+      "model_name": "AC-1030",
+      "log_desc": "入整界设度展组间",
+      "log_level": "0",
+      "time": "1999-02-06 08:31:38",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "04:CC:23:A6:5A:50"
+    },
+    {
+      "id": 33,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "划响较下决条于确",
+      "log_level": "1",
+      "time": "1995-11-25 01:04:49",
+      "user_name": "username6",
+      "dev_group": "group2",
+      "mac_addr": "94:6C:A2:18:9D:CD"
+    },
+    {
+      "id": 34,
+      "model_name": "AC-1030",
+      "log_desc": "关议于毛音直金正",
+      "log_level": "1",
+      "time": "2009-06-14 04:41:15",
+      "user_name": "username6",
+      "dev_group": "group4",
+      "mac_addr": "04:45:25:E2:12:BB"
+    },
+    {
+      "id": 35,
+      "model_name": "AC-1027L",
+      "log_desc": "整深规复没律从转",
+      "log_level": "2",
+      "time": "1981-10-01 02:02:20",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "4A:DC:AC:27:DD:8D"
+    },
+    {
+      "id": 36,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "不员光整具支这江",
+      "log_level": "1",
+      "time": "1981-07-14 19:53:29",
+      "user_name": "username2",
+      "dev_group": "group3",
+      "mac_addr": "B0:A6:D5:B4:68:C7"
+    },
+    {
+      "id": 37,
+      "model_name": "AC-1027L",
+      "log_desc": "你长研起气规江拉",
+      "log_level": "2",
+      "time": "2014-01-22 02:21:51",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "02:6B:92:43:64:53"
+    },
+    {
+      "id": 38,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "观亲深相风东出号",
+      "log_level": "1",
+      "time": "1982-09-06 07:08:22",
+      "user_name": "username2",
+      "dev_group": "group2",
+      "mac_addr": "CE:B1:2E:0F:FD:FB"
+    },
+    {
+      "id": 39,
+      "model_name": "AC-1030",
+      "log_desc": "位候周接参已构且",
+      "log_level": "1",
+      "time": "1973-07-25 06:34:18",
+      "user_name": "username4",
+      "dev_group": "group2",
+      "mac_addr": "4A:27:20:8B:35:B9"
+    },
+    {
+      "id": 40,
+      "model_name": "AC-1027L",
+      "log_desc": "都记放公务给术完",
+      "log_level": "0",
+      "time": "1972-01-04 13:55:10",
+      "user_name": "username3",
+      "dev_group": "group5",
+      "mac_addr": "50:48:38:CD:1B:58"
+    },
+    {
+      "id": 41,
+      "model_name": "XN-1033",
+      "log_desc": "或光除需出决走一",
+      "log_level": "0",
+      "time": "2005-11-19 07:00:21",
+      "user_name": "username2",
+      "dev_group": "group1",
+      "mac_addr": "18:A5:57:A4:E8:2C"
+    },
+    {
+      "id": 42,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "提拉上用想布受如",
+      "log_level": "1",
+      "time": "2017-02-21 10:29:15",
+      "user_name": "username4",
+      "dev_group": "group3",
+      "mac_addr": "A0:32:87:34:0D:CA"
+    },
+    {
+      "id": 43,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "角九米划样需如务",
+      "log_level": "1",
+      "time": "1976-08-01 08:33:12",
+      "user_name": "username5",
+      "dev_group": "group5",
+      "mac_addr": "9A:E5:60:42:61:08"
+    },
+    {
+      "id": 44,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "也构按教去老切件",
+      "log_level": "1",
+      "time": "2012-03-03 09:08:12",
+      "user_name": "username2",
+      "dev_group": "group5",
+      "mac_addr": "6A:CB:18:F8:FD:99"
+    },
+    {
+      "id": 45,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "万必务才气难张马",
+      "log_level": "2",
+      "time": "1970-06-23 00:44:11",
+      "user_name": "username3",
+      "dev_group": "group5",
+      "mac_addr": "EA:74:85:88:65:A2"
+    },
+    {
+      "id": 46,
+      "model_name": "AC-1030",
+      "log_desc": "常到每提那你包儿",
+      "log_level": "1",
+      "time": "1998-02-19 08:04:02",
+      "user_name": "username4",
+      "dev_group": "group2",
+      "mac_addr": "88:8C:63:4B:24:B6"
+    },
+    {
+      "id": 47,
+      "model_name": "ZCN-1523-2-8",
+      "log_desc": "响天水切眼已示记",
+      "log_level": "0",
+      "time": "2015-09-27 12:44:28",
+      "user_name": "username4",
+      "dev_group": "group5",
+      "mac_addr": "1A:8B:38:9F:9B:6C"
+    },
+    {
+      "id": 48,
+      "model_name": "ZAC-1023-2-9",
+      "log_desc": "处可统流数国加此",
+      "log_level": "1",
+      "time": "1993-06-27 19:26:37",
+      "user_name": "username2",
+      "dev_group": "group3",
+      "mac_addr": "22:87:84:44:9A:8D"
+    },
+    {
+      "id": 49,
+      "model_name": "AC-1030",
+      "log_desc": "龙清给教有了走力",
+      "log_level": "2",
+      "time": "1985-10-07 23:02:19",
+      "user_name": "username4",
+      "dev_group": "group3",
+      "mac_addr": "1C:C8:1F:48:82:1C"
+    },
+    {
+      "id": 50,
+      "model_name": "XN-1033",
+      "log_desc": "复规林书影铁线区",
+      "log_level": "1",
+      "time": "2010-11-26 06:44:32",
+      "user_name": "username2",
+      "dev_group": "group2",
+      "mac_addr": "4C:42:38:3E:D9:34"
+    }
+  ],
+  "grouplists": [
+    {
+      "id": 1,
+      "group_list": "group4",
+      "user_name": "username1",
+      "management": "management4"
+    },
+    {
+      "id": 2,
+      "group_list": "group2",
+      "user_name": "username3",
+      "management": "management3"
+    },
+    {
+      "id": 3,
+      "group_list": "group3",
+      "user_name": "username6",
+      "management": "management3"
+    },
+    {
+      "id": 4,
+      "group_list": "group5",
+      "user_name": "username1",
+      "management": "management1"
+    },
+    {
+      "id": 5,
+      "group_list": "group5",
+      "user_name": "username5",
+      "management": "management5"
+    },
+    {
+      "id": 6,
+      "group_list": "group3",
+      "user_name": "username6",
+      "management": "management4"
+    },
+    {
+      "id": 7,
+      "group_list": "group1",
+      "user_name": "username2",
+      "management": "management5"
+    },
+    {
+      "id": 8,
+      "group_list": "group3",
+      "user_name": "username5",
+      "management": "management3"
+    },
+    {
+      "id": 9,
+      "group_list": "group2",
+      "user_name": "username5",
+      "management": "management5"
+    },
+    {
+      "id": 10,
+      "group_list": "group5",
+      "user_name": "username3",
+      "management": "management3"
+    },
+    {
+      "id": 11,
+      "group_list": "group6",
+      "user_name": "username3",
+      "management": "management5"
+    },
+    {
+      "id": 12,
+      "group_list": "group4",
+      "user_name": "username3",
+      "management": "management5"
+    },
+    {
+      "id": 13,
+      "group_list": "group6",
+      "user_name": "username4",
+      "management": "management4"
+    },
+    {
+      "id": 14,
+      "group_list": "group1",
+      "user_name": "username3",
+      "management": "management4"
+    },
+    {
+      "id": 15,
+      "group_list": "group5",
+      "user_name": "username4",
+      "management": "management1"
+    },
+    {
+      "id": 16,
+      "group_list": "group3",
+      "user_name": "username3",
+      "management": "management3"
+    },
+    {
+      "id": 17,
+      "group_list": "group2",
+      "user_name": "username1",
+      "management": "management4"
+    },
+    {
+      "id": 18,
+      "group_list": "group6",
+      "user_name": "username1",
+      "management": "management1"
+    },
+    {
+      "id": 19,
+      "group_list": "group5",
+      "user_name": "username3",
+      "management": "management2"
+    },
+    {
+      "id": 20,
+      "group_list": "group4",
+      "user_name": "username4",
+      "management": "management1"
+    },
+    {
+      "id": 21,
+      "group_list": "group5",
+      "user_name": "username3",
+      "management": "management6"
+    },
+    {
+      "id": 22,
+      "group_list": "group3",
+      "user_name": "username4",
+      "management": "management4"
+    },
+    {
+      "id": 23,
+      "group_list": "group4",
+      "user_name": "username5",
+      "management": "management6"
+    },
+    {
+      "id": 24,
+      "group_list": "group5",
+      "user_name": "username2",
+      "management": "management4"
+    },
+    {
+      "id": 25,
+      "group_list": "group6",
+      "user_name": "username5",
+      "management": "management3"
+    },
+    {
+      "id": 26,
+      "group_list": "group5",
+      "user_name": "username3",
+      "management": "management1"
+    },
+    {
+      "id": 27,
+      "group_list": "group6",
+      "user_name": "username4",
+      "management": "management2"
+    },
+    {
+      "id": 28,
+      "group_list": "group4",
+      "user_name": "username1",
+      "management": "management5"
+    },
+    {
+      "id": 29,
+      "group_list": "group2",
+      "user_name": "username1",
+      "management": "management5"
+    },
+    {
+      "id": 30,
+      "group_list": "group6",
+      "user_name": "username5",
+      "management": "management3"
+    },
+    {
+      "id": 31,
+      "group_list": "group5",
+      "user_name": "username2",
+      "management": "management2"
+    },
+    {
+      "id": 32,
+      "group_list": "group2",
+      "user_name": "username4",
+      "management": "management3"
+    },
+    {
+      "id": 33,
+      "group_list": "group5",
+      "user_name": "username6",
+      "management": "management2"
+    },
+    {
+      "id": 34,
+      "group_list": "group4",
+      "user_name": "username2",
+      "management": "management2"
+    },
+    {
+      "id": 35,
+      "group_list": "group5",
+      "user_name": "username4",
+      "management": "management2"
+    },
+    {
+      "id": 36,
+      "group_list": "group4",
+      "user_name": "username5",
+      "management": "management2"
+    },
+    {
+      "id": 37,
+      "group_list": "group5",
+      "user_name": "username1",
+      "management": "management3"
+    },
+    {
+      "id": 38,
+      "group_list": "group3",
+      "user_name": "username2",
+      "management": "management3"
+    },
+    {
+      "id": 39,
+      "group_list": "group3",
+      "user_name": "username6",
+      "management": "management2"
+    },
+    {
+      "id": 40,
+      "group_list": "group5",
+      "user_name": "username2",
+      "management": "management2"
+    },
+    {
+      "id": 41,
+      "group_list": "group5",
+      "user_name": "username3",
+      "management": "management4"
+    },
+    {
+      "id": 42,
+      "group_list": "group6",
+      "user_name": "username5",
+      "management": "management2"
+    },
+    {
+      "id": 43,
+      "group_list": "group5",
+      "user_name": "username5",
+      "management": "management2"
+    },
+    {
+      "id": 44,
+      "group_list": "group6",
+      "user_name": "username6",
+      "management": "management2"
+    },
+    {
+      "id": 45,
+      "group_list": "group5",
+      "user_name": "username5",
+      "management": "management1"
+    },
+    {
+      "id": 46,
+      "group_list": "group2",
+      "user_name": "username6",
+      "management": "management5"
+    },
+    {
+      "id": 47,
+      "group_list": "group6",
+      "user_name": "username5",
+      "management": "management6"
+    },
+    {
+      "id": 48,
+      "group_list": "group5",
+      "user_name": "username4",
+      "management": "management5"
+    },
+    {
+      "id": 49,
+      "group_list": "group3",
+      "user_name": "username5",
+      "management": "management3"
+    },
+    {
+      "id": 50,
+      "group_list": "group4",
+      "user_name": "username2",
+      "management": "management4"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "user_name": "Pig",
+      "management": "Harden"
+    },
+    {
+      "id": 2,
+      "user_name": "Goge",
+      "management": "Kobe"
+    },
+    {
+      "id": 3,
+      "user_name": "Goge",
+      "management": "James"
+    },
+    {
+      "id": 4,
+      "user_name": "Goge",
+      "management": "Harden"
+    },
+    {
+      "id": 5,
+      "user_name": "Goge",
+      "management": "Kobe"
+    },
+    {
+      "id": 6,
+      "user_name": "Pig",
+      "management": "James"
+    },
+    {
+      "id": 7,
+      "user_name": "Lily",
+      "management": "James"
+    },
+    {
+      "id": 8,
+      "user_name": "Tom",
+      "management": "Kobe"
+    },
+    {
+      "id": 9,
+      "user_name": "Goge",
+      "management": "James"
+    },
+    {
+      "id": 10,
+      "user_name": "Candy",
+      "management": "Wade"
+    },
+    {
+      "id": 11,
+      "user_name": "Goge",
+      "management": "Wade"
+    },
+    {
+      "id": 12,
+      "user_name": "Lily",
+      "management": "Pual"
+    },
+    {
+      "id": 13,
+      "user_name": "Pig",
+      "management": "Wade"
+    },
+    {
+      "id": 14,
+      "user_name": "Candy",
+      "management": "James"
+    },
+    {
+      "id": 15,
+      "user_name": "Candy",
+      "management": "Kobe"
+    },
+    {
+      "id": 16,
+      "user_name": "Goge",
+      "management": "James"
+    },
+    {
+      "id": 17,
+      "user_name": "Tom",
+      "management": "Kobe"
+    },
+    {
+      "id": 18,
+      "user_name": "Tom",
+      "management": "Kobe"
+    },
+    {
+      "id": 19,
+      "user_name": "Pig",
+      "management": "Wade"
+    },
+    {
+      "id": 20,
+      "user_name": "Goge",
+      "management": "Harden"
+    },
+    {
+      "id": 21,
+      "user_name": "Goge",
+      "management": "Wade"
+    },
+    {
+      "id": 22,
+      "user_name": "Goge",
+      "management": "Pual"
+    },
+    {
+      "id": 23,
+      "user_name": "Tom",
+      "management": "Kobe"
+    },
+    {
+      "id": 24,
+      "user_name": "Candy",
+      "management": "Pual"
+    },
+    {
+      "id": 25,
+      "user_name": "Pig",
+      "management": "Harden"
+    },
+    {
+      "id": 26,
+      "user_name": "Goge",
+      "management": "Wade"
+    },
+    {
+      "id": 27,
+      "user_name": "Goge",
+      "management": "James"
+    },
+    {
+      "id": 28,
+      "user_name": "Goge",
+      "management": "Harden"
+    },
+    {
+      "id": 29,
+      "user_name": "Lily",
+      "management": "Kobe"
+    },
+    {
+      "id": 30,
+      "user_name": "Pig",
+      "management": "Pual"
+    },
+    {
+      "id": 31,
+      "user_name": "Lily",
+      "management": "Kobe"
+    },
+    {
+      "id": 32,
+      "user_name": "Candy",
+      "management": "Kobe"
+    },
+    {
+      "id": 33,
+      "user_name": "Candy",
+      "management": "Kobe"
+    },
+    {
+      "id": 34,
+      "user_name": "Pig",
+      "management": "James"
+    },
+    {
+      "id": 35,
+      "user_name": "Candy",
+      "management": "Pual"
+    },
+    {
+      "id": 36,
+      "user_name": "Candy",
+      "management": "Pual"
+    },
+    {
+      "id": 37,
+      "user_name": "Tom",
+      "management": "Pual"
+    },
+    {
+      "id": 38,
+      "user_name": "Tom",
+      "management": "Pual"
+    },
+    {
+      "id": 39,
+      "user_name": "Candy",
+      "management": "Wade"
+    },
+    {
+      "id": 40,
+      "user_name": "Lily",
+      "management": "Wade"
+    },
+    {
+      "id": 41,
+      "user_name": "Tom",
+      "management": "Wade"
+    },
+    {
+      "id": 42,
+      "user_name": "Lily",
+      "management": "Pual"
+    },
+    {
+      "id": 43,
+      "user_name": "Candy",
+      "management": "Kobe"
+    },
+    {
+      "id": 44,
+      "user_name": "Tom",
+      "management": "Harden"
+    },
+    {
+      "id": 45,
+      "user_name": "Candy",
+      "management": "Pual"
+    },
+    {
+      "id": 46,
+      "user_name": "Goge",
+      "management": "Kobe"
+    },
+    {
+      "id": 47,
+      "user_name": "Pig",
+      "management": "Harden"
+    },
+    {
+      "id": 48,
+      "user_name": "Candy",
+      "management": "James"
+    },
+    {
+      "id": 49,
+      "user_name": "Candy",
+      "management": "Wade"
+    },
+    {
+      "id": 50,
+      "user_name": "Lily",
+      "management": "Kobe"
+    }
+  ],
+  "templates": [
+    {
+      "id": 1,
+      "model_name": "XN-1033",
+      "template_name": "default5",
+      "wireless_mode": "3,6",
+      "channel_frequency": "3,7",
+      "profiles_name": "name0-1,name1-1,name2-1,name3-1,name4-1,name5-1,name6-1,name7-1,name0-2,name1-2,name2-2,name3-2,name4-2,name5-2,name6-2,name7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 2,
+      "model_name": "AC-1027L",
+      "template_name": "default5",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "ssid0,ssid1,ssid2,ssid3,ssid4,ssid5,ssid6,ssid7,ssid0-2,ssid1-2,ssid2-2,ssid3-2,ssid4-2,ssid5-2,ssid6-2,ssid7-2",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 3,
+      "model_name": "AC-1027L",
+      "template_name": "default3",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 4,
+      "model_name": "AC-1027L",
+      "template_name": "default2",
+      "wireless_mode": "1,4",
+      "channel_frequency": "3,7",
+      "profiles_name": "name0-1,name1-1,name2-1,name3-1,name4-1,name5-1,name6-1,name7-1,name0-2,name1-2,name2-2,name3-2,name4-2,name5-2,name6-2,name7-2",
+      "ssid": "ssid0,ssid1,ssid2,ssid3,ssid4,ssid5,ssid6,ssid7,ssid0-2,ssid1-2,ssid2-2,ssid3-2,ssid4-2,ssid5-2,ssid6-2,ssid7-2",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 5,
+      "model_name": "AC-1027L",
+      "template_name": "default2",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "ssid0,ssid1,ssid2,ssid3,ssid4,ssid5,ssid6,ssid7,ssid0-2,ssid1-2,ssid2-2,ssid3-2,ssid4-2,ssid5-2,ssid6-2,ssid7-2",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 6,
+      "model_name": "AC-1027L",
+      "template_name": "default1",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 7,
+      "model_name": "ZN-7100-2DHO",
+      "template_name": "default3",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 8,
+      "model_name": "AC-1027L",
+      "template_name": "default1",
+      "wireless_mode": "2,5",
+      "channel_frequency": "3,7",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 9,
+      "model_name": "XN-1033",
+      "template_name": "default1",
+      "wireless_mode": "2,5",
+      "channel_frequency": "3,7",
+      "profiles_name": "lad0,lad1,lad2,lad3,lad4,lad5,lad6,lad7,lad0-2,lad1-2,lad2-2,lad3-2,lad4-2,lad5-2,lad6-2,lad7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 10,
+      "model_name": "ZN-7100-2DHO",
+      "template_name": "default3",
+      "wireless_mode": "3,6",
+      "channel_frequency": "3,7",
+      "profiles_name": "name0-1,name1-1,name2-1,name3-1,name4-1,name5-1,name6-1,name7-1,name0-2,name1-2,name2-2,name3-2,name4-2,name5-2,name6-2,name7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 11,
+      "model_name": "AC-1027L",
+      "template_name": "default5",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "lad0,lad1,lad2,lad3,lad4,lad5,lad6,lad7,lad0-2,lad1-2,lad2-2,lad3-2,lad4-2,lad5-2,lad6-2,lad7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 12,
+      "model_name": "XN-1033",
+      "template_name": "default2",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "lad0,lad1,lad2,lad3,lad4,lad5,lad6,lad7,lad0-2,lad1-2,lad2-2,lad3-2,lad4-2,lad5-2,lad6-2,lad7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 13,
+      "model_name": "ZN-7100-2DHO",
+      "template_name": "default5",
+      "wireless_mode": "1,4",
+      "channel_frequency": "3,7",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "ssid0,ssid1,ssid2,ssid3,ssid4,ssid5,ssid6,ssid7,ssid0-2,ssid1-2,ssid2-2,ssid3-2,ssid4-2,ssid5-2,ssid6-2,ssid7-2",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 14,
+      "model_name": "XN-1033",
+      "template_name": "default3",
+      "wireless_mode": "2,5",
+      "channel_frequency": "2,6",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "templet0,templet1,templet2,templet3,templet4,templet5,templet6,templet7,templet0-2,templet1-2,templet2-2,templet3-2,templet4-2,templet5-2,templet6-2,templet7-2",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    },
+    {
+      "id": 15,
+      "model_name": "XN-1033",
+      "template_name": "default1",
+      "wireless_mode": "2,5",
+      "channel_frequency": "4,8",
+      "profiles_name": "test0-1,test1-1,test2-1,test3-1,test4-1,test5-1,test6-1,test7-1,test0-2,test1-2,test2-2,test3-2,test4-2,test5-2,test6-2,test7-2",
+      "ssid": "zwa0,zwa1,zwa2,zwa3,zwa4,zwa5,zwa6,zwa7,zw0,zw1,zw2,zw3,zw4,zw5,zw6,zw7",
+      "security": "Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key,Open System,WPA-PSK,WPA2-PSK,Shared Key,WPA-PSK & WPA2-PSK,WPA-PSK,Open System,Shared Key"
+    }
+  ],
+  "devmanagements": [
+    {
+      "id": 1,
+      "model_name": "XN-1033",
+      "basic_platform": "C",
+      "brand": "567"
+    },
+    {
+      "id": 2,
+      "model_name": "XN-1034",
+      "basic_platform": "D",
+      "brand": "234"
+    },
+    {
+      "id": 3,
+      "model_name": "AC-1027L",
+      "basic_platform": "D",
+      "brand": "234"
+    },
+    {
+      "id": 4,
+      "model_name": "XN-1032",
+      "basic_platform": "B",
+      "brand": "456"
+    },
+    {
+      "id": 5,
+      "model_name": "XN-1034",
+      "basic_platform": "D",
+      "brand": "234"
+    }
+  ],
+  "dev_card_ids": [
+    {
+      "id": 1,
+      "model_name": "AC-1027L",
+      "card_num": "2",
+      "vap_num": "8,8"
+    },
+    {
+      "id": 2,
+      "model_name": "AC-1027L",
+      "card_num": "2",
+      "vap_num": "8,8"
+    },
+    {
+      "id": 3,
+      "model_name": "AC-1027L",
+      "card_num": "2",
+      "vap_num": "8,8"
+    },
+    {
+      "id": 4,
+      "model_name": "XN-1033",
+      "card_num": "2",
+      "vap_num": "8,8"
+    },
+    {
+      "id": 5,
+      "model_name": "AC-1027L",
+      "card_num": "2",
+      "vap_num": "8,8"
+    }
+  ]
+}
